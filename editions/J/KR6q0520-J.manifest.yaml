@@ -19,13 +19,13 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0520_000-J.yaml, hash: 'sha256:958cc84ab293bbe97d66dc0ec67a12f69aab79040b25a231ab23c103731a1d3c'}
+  - {seq: 0, filename: KR6q0520_000-J.yaml, hash: 'sha256:57467b04f09037f17972266231581afe0a72122bd0afe1058e995ac99e8e4c6f'}
   - {seq: 1, filename: KR6q0520_001-J.yaml, hash: 'sha256:f9d5aeec49c5f24cde8e5fefd5b61cd39f7a7d936cf20a85c06434a1f6379379'}
   - {seq: 2, filename: KR6q0520_002-J.yaml, hash: 'sha256:180de0a60aeab89162bac6235c926e8814f0b963782368a09afc51a5126f8414'}
   - {seq: 3, filename: KR6q0520_003-J.yaml, hash: 'sha256:29601443b8acae072ca6602bae56f5a71eecf0e2fc8d946d1c3556f53ca1de86'}
   - {seq: 4, filename: KR6q0520_004-J.yaml, hash: 'sha256:26a8e596a719e124a105b1bdec18d37955d3142e76a161ea85be7b2382ebf63c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0520_000-J.markers.yaml, hash: 'sha256:6fb2131cd185fa5ec7860fc087e8ff85c1a27de7330f20269de8e75361494ded'}
+  - {seq: 0, role: markers, filename: assets/KR6q0520_000-J.markers.yaml, hash: 'sha256:52be6244dc05e67000d01ec10ddc623bdf4edd078458499f3d37ff2e67a3a7b9'}
   - {seq: 1, role: markers, filename: assets/KR6q0520_001-J.markers.yaml, hash: 'sha256:8a491d9626eaf01e3950d9fc2fbd99de7c9de87d1456c512de6a74f9786f2abb'}
   - {seq: 2, role: markers, filename: assets/KR6q0520_002-J.markers.yaml, hash: 'sha256:0b292b972d725aaa3cb2828dbf30fe19af0611350c8d07ce518ec56920bbc5f4'}
   - {seq: 3, role: markers, filename: assets/KR6q0520_003-J.markers.yaml, hash: 'sha256:b2cac3a5bca6372988d488db8c4e8831f7b7c6b0e1441446149141525086f397'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0520_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0520_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 王庶善序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0520_J_000-mulu-3
     span:
-    - front
+    - body
     - 390
     - 390
   label: 李文淵序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0520_J_000-mulu-4
     span:
-    - front
+    - body
     - 1406
     - 1406
   label: 目次
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0520_J_000-mulu-5
     span:
-    - front
+    - body
     - 1454
     - 1454
   label: 開堂疏
@@ -1151,4 +1151,4 @@ table_of_contents:
   label: 復陰護法請藏啟
   type: mulu
   level: 1
-hash: sha256:ad633a0fd952be4e2be475e003078b8f1ec1acdcb42959cc4dd6fb468ab1b024
+hash: sha256:14314775cf9076bcd2f9acb57ef855ee3fef7f8bfb797e3efc85c4422ef95674
